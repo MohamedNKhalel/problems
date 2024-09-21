@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+}
+.main{
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: black;
+    color: white;
+}
+h1{
+    padding: 30px;
+}
